@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "bbJDmCFD0+BKzBrW5bRUiXGrDMoK4u4Crr2cVeZfMEo+V+vKKKUjpjp4yuf1JETTDBICQytTwlqq0QPrSEDdpA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marye\\source\\repos\\Books\\Books.Service\\Books.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marye\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
+    "C:\\Users\\marye\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\marye\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\marye\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "C:\\Users\\marye\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\marye\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

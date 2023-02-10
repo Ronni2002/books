@@ -1,0 +1,12 @@
+C:\Users\marye\source\repos\Books\Books.Service\obj\Debug\net7.0\Books.Service.csproj.AssemblyReference.cache
+C:\Users\marye\source\repos\Books\Books.Service\obj\Debug\net7.0\Books.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marye\source\repos\Books\Books.Service\obj\Debug\net7.0\Books.Service.AssemblyInfoInputs.cache
+C:\Users\marye\source\repos\Books\Books.Service\obj\Debug\net7.0\Books.Service.AssemblyInfo.cs
+C:\Users\marye\source\repos\Books\Books.Service\obj\Debug\net7.0\Books.Service.csproj.CoreCompileInputs.cache
+C:\Users\marye\source\repos\Books\Books.Service\bin\Debug\net7.0\Books.Service.deps.json
+C:\Users\marye\source\repos\Books\Books.Service\bin\Debug\net7.0\Books.Service.dll
+C:\Users\marye\source\repos\Books\Books.Service\bin\Debug\net7.0\Books.Service.pdb
+C:\Users\marye\source\repos\Books\Books.Service\obj\Debug\net7.0\Books.Service.dll
+C:\Users\marye\source\repos\Books\Books.Service\obj\Debug\net7.0\refint\Books.Service.dll
+C:\Users\marye\source\repos\Books\Books.Service\obj\Debug\net7.0\Books.Service.pdb
+C:\Users\marye\source\repos\Books\Books.Service\obj\Debug\net7.0\ref\Books.Service.dll
